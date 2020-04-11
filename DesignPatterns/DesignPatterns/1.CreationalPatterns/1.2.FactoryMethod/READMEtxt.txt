@@ -1,0 +1,1 @@
+﻿O padrão Factory Method cria ums instância de diversas derivações de classes.
