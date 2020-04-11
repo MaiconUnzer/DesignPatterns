@@ -2,7 +2,7 @@
 
 namespace DesignPatterns._1.CreationalPatterns._1._1.AbstractFactory
 {
-    //Cliente Class
+    //Client Class
     public class AutoSocorro
     {
         private readonly Veiculo _veiculo;
