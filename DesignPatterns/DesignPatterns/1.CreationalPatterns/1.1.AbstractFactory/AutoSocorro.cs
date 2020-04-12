@@ -8,7 +8,7 @@ namespace DesignPatterns._1.CreationalPatterns._1._1.AbstractFactory
         private readonly Veiculo _veiculo;
         private readonly Guincho _guincho;
 
-        public AutoSocorro(AutoSocorroFactory factory, Veiculo veiculo)
+        private AutoSocorro(AutoSocorroFactory factory, Veiculo veiculo)
         {
             _veiculo = factory.CriarVeiculo(veiculo.Modelo);
             _guincho = factory.CriarGuincho();
