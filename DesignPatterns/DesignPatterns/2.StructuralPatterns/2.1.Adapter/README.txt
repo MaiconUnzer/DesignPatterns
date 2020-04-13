@@ -1,0 +1,1 @@
+﻿Este padrão compatibiliza objetos de interfaces diferentes.

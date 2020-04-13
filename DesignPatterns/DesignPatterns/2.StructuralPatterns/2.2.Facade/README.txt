@@ -1,0 +1,1 @@
+﻿Este padrão possui uma única classe que representa um subsistema
