@@ -1,0 +1,1 @@
+﻿Encapsula um command request em um objeto
