@@ -1,1 +1,0 @@
-﻿Uma forma de notificar mudanças a uma série de classes

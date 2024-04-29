@@ -1,1 +1,0 @@
-﻿Encapsula um algoritmo dentro de uma classe
